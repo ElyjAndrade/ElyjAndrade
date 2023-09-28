@@ -1,16 +1,27 @@
-### Hi there 👋
+###  Olá, Bem-vindo ao meu perfil no Github! / Hi, Welcome to my Github profile! 👋
 
-<!--
-**ElyjAndrade/ElyjAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://github.com/ElyjAndrade">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyjAndrade&layout=compact&langs_count=7&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ElyjAndrade&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block" align="center"><br>
+    <h3>Ferramentas e Tecnologias:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css,js" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div style="display: inline_block" align="center">
+    <h3>Estou aprendendo</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django" />
+  </a>
+  </div>
+
+  
+  <h3>LinkedIn:</h3>
+<a href="https://www.linkedin.com/in/ely-andrade-410922241/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<!-- <a href="https://discord.gg/AQYymjQABs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+</div>
+
