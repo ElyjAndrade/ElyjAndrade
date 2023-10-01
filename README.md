@@ -15,7 +15,7 @@
  <div style="display: inline_block" align="center">
     <h3>Estou aprendendo</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,react" />
   </a>
   </div>
 
